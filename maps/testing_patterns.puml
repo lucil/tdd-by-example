@@ -1,0 +1,31 @@
+@startmindmap Red Bar Patterns
+<style>
+mindmapDiagram {
+    .green {
+        BackgroundColor lightgreen
+    }
+    .rose {
+        BackgroundColor #FFBBCC
+    }
+    .blue {
+        BackgroundColor lightblue
+    }
+}
+</style>
+*  Testing patterns <<blue>>
+** Child Test <<green>>
+*** When a test case turns out tool big write a smaller test case that represents the broken prt of the bigger test case <<rose>>
+** Mock Object <<green>>
+*** When an object relies on an expensive or complicated resource create a fake version of the resource that answers constants <<rose>>
+** Self Shunt <<green>>
+*** To test that one object communicates correctly with another have the object under test communicate with the test case instead of with the object it expects <<rose>>
+** Log String <<green>>
+*** Keep a log in a string to test that the sequence in which messages are called is correct <<rose>>
+** Crash Test Dummy <<green>>
+*** When testing error code that is unlikely to be invoked use a special object that throws and exception instead of doing the real work <<rose>>
+** Broken Test <<green>>
+*** When programming alone leave the last test broken <<rose>>
+** Clean Check-in <<green>>
+*** When programming in a team leave the programming session with all tests running <<rose>>
+
+@endmindmap

@@ -1,0 +1,30 @@
+@startmindmap Red Bar Patterns
+<style>
+mindmapDiagram {
+    .green {
+        BackgroundColor lightgreen
+    }
+    .rose {
+        BackgroundColor #FFBBCC
+    }
+    .blue {
+        BackgroundColor lightblue
+    }
+}
+</style>
+*  Red Bar Patterns <<blue>>
+** One Step Test <<green>>
+*** Pick a test that represents one step and teach you something <<rose>>
+** Starter Test <<green>>
+*** Start by testing a variant of an operation that doesn't do anything <<rose>>
+** Explanation Test <<green>>
+*** Ask for and give explanations in terms of tests <<rose>>
+** Learning Test <<green>>
+*** Write tests before the first time your are going to use a new facility in the package <<rose>>
+** Another Test <<green>>
+*** When a tangential idea arises, add a test to the list and go back to the topic <<rose>>
+** Regression Test <<green>>
+*** When a bug is reported, write the smallest possible test that fails and will be repaired <<rose>>
+
+
+@endmindmap

@@ -1,0 +1,35 @@
+@startmindmap Red Bar Patterns
+<style>
+mindmapDiagram {
+    .green {
+        BackgroundColor lightgreen
+    }
+    .rose {
+        BackgroundColor #FFBBCC
+    }
+    .blue {
+        BackgroundColor lightblue
+    }
+    .grey {
+        BackgroundColor lightgrey
+    }
+}
+</style>
+*  xUnit Patterns <<blue>>
+** Assertion <<grey>>
+*** How do you check that tests worked correctly? <<rose>>
+**** Write a boolean expression that automate your judgment about whether the code worked <<green>>
+** Fixture <<grey>>
+*** How do you create common objects needed by several tests? <<rose>>
+**** Convert the local variables in the tests into instance variables <<green>>
+** External Fixture <<grey>>
+*** How do you release external resource in the fixture? <<rose>>
+**** Override tearDown() and release the resources <<green>>
+** Test Method <<grey>>
+*** How do you represent a single test case? <<rose>>
+**** As a method whose name begins with test... <<green>>
+** All Tests <<grey>>
+*** How do you run all tests together? <<rose>>
+**** Make a suite of all the suites <<green>>
+
+@endmindmap

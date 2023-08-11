@@ -1,0 +1,25 @@
+@startmindmap Red Bar Patterns
+<style>
+mindmapDiagram {
+    .green {
+        BackgroundColor lightgreen
+    }
+    .rose {
+        BackgroundColor #FFBBCC
+    }
+    .blue {
+        BackgroundColor lightblue
+    }
+}
+</style>
+*  Green Bar Patterns <<blue>>
+** Fake it (till you make it) <<green>>
+*** Once you have a borken test return a constant to fix it <<rose>>
+** Triangulate <<green>>
+*** Abstract only when you have tow or more examples <<rose>>
+** Obvious implementation <<green>>
+*** When having simple operations, just implement them <<rose>>
+** One to Many <<green>>
+*** When implementing an operation that works with collections of objects, implement it without collections first, then make it work with collections <<rose>>
+
+@endmindmap
