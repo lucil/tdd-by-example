@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="360px" preserveAspectRatio="none" style="width:996px;height:360px;background:#FFFFFF;" version="1.1" viewBox="0 0 996 360" width="996px" zoomAndPan="magnify"><defs/><g><rect fill="#ADD8E6" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="136" x="10" y="161.2207"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="20" y="184.7559">Red Bar Patterns</text><rect fill="#90EE90" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="119" x="196" y="20"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="206" y="43.5352">One Step Test</text><rect fill="#FFBBCC" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="440" x="365" y="20"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="416" x="375" y="43.5352">Pick a test that represents one step and teach you something</text><path d="M315,38.2441 L325,38.2441 C340,38.2441 340,38.2441 355,38.2441 L365,38.2441 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M146,179.4648 L156,179.4648 C171,179.4648 171,38.2441 186,38.2441 L196,38.2441 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#90EE90" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="103" x="196" y="76.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="206" y="100.0234">Starter Test</text><rect fill="#FFBBCC" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="471" x="349" y="76.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="447" x="359" y="100.0234">Start by testing a variant of an operation that doesn't do anything</text><path d="M299,94.7324 L309,94.7324 C324,94.7324 324,94.7324 339,94.7324 L349,94.7324 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M146,179.4648 L156,179.4648 C171,179.4648 171,94.7324 186,94.7324 L196,94.7324 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#90EE90" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="139" x="196" y="132.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115" x="206" y="156.5117">Explanation Test</text><rect fill="#FFBBCC" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="342" x="385" y="132.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="318" x="395" y="156.5117">Ask for and give explanations in terms of tests</text><path d="M335,151.2207 L345,151.2207 C360,151.2207 360,151.2207 375,151.2207 L385,151.2207 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M146,179.4648 L156,179.4648 C171,179.4648 171,151.2207 186,151.2207 L196,151.2207 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#90EE90" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="117" x="196" y="189.4648"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="206" y="213">Learning Test</text><rect fill="#FFBBCC" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="582" x="363" y="189.4648"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="558" x="373" y="213">Write tests before the first time your are going to use a new facility in the package</text><path d="M313,207.709 L323,207.709 C338,207.709 338,207.709 353,207.709 L363,207.709 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M146,179.4648 L156,179.4648 C171,179.4648 171,207.709 186,207.709 L196,207.709 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#90EE90" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="113" x="196" y="245.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="206" y="269.4883">Another Test</text><rect fill="#FFBBCC" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="537" x="359" y="245.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="513" x="369" y="269.4883">When a tangential idea arises, add a test to the list and go back to the topic</text><path d="M309,264.1973 L319,264.1973 C334,264.1973 334,264.1973 349,264.1973 L359,264.1973 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M146,179.4648 L156,179.4648 C171,179.4648 171,264.1973 186,264.1973 L196,264.1973 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#90EE90" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="133" x="196" y="302.4414"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="206" y="325.9766">Regression Test</text><rect fill="#FFBBCC" height="36.4883" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="605" x="379" y="302.4414"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="581" x="389" y="325.9766">When a bug is reported, write the smallest possible test that fails and will be repaired</text><path d="M329,320.6855 L339,320.6855 C354,320.6855 354,320.6855 369,320.6855 L379,320.6855 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M146,179.4648 L156,179.4648 C171,179.4648 171,320.6855 186,320.6855 L196,320.6855 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[6093098b59233f04be267ee3063d0fa3]
+@startmindmap Red Bar Patterns
+<style>
+mindmapDiagram {
+    .green {
+        BackgroundColor lightgreen
+    }
+    .rose {
+        BackgroundColor #FFBBCC
+    }
+    .blue {
+        BackgroundColor lightblue
+    }
+}
+</style>
+*  Red Bar Patterns <<blue>>
+** One Step Test <<green>>
+*** Pick a test that represents one step and teach you something <<rose>>
+** Starter Test <<green>>
+*** Start by testing a variant of an operation that doesn't do anything <<rose>>
+** Explanation Test <<green>>
+*** Ask for and give explanations in terms of tests <<rose>>
+** Learning Test <<green>>
+*** Write tests before the first time your are going to use a new facility in the package <<rose>>
+** Another Test <<green>>
+*** When a tangential idea arises, add a test to the list and go back to the topic <<rose>>
+** Regression Test <<green>>
+*** When a bug is reported, write the smallest possible test that fails and will be repaired <<rose>>
+
+
+@endmindmap
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: IT
+--></g></svg>

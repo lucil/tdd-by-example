@@ -1,0 +1,51 @@
+@startmindmap Red Bar Patterns
+<style>
+mindmapDiagram {
+    .green {
+        BackgroundColor lightgreen
+    }
+    .rose {
+        BackgroundColor #FFBBCC
+    }
+    .blue {
+        BackgroundColor lightblue
+    }
+    .grey {
+        BackgroundColor lightgrey
+    }
+}
+</style>
+*  Design Patterns <<blue>>
+** Command <<grey>>
+*** What do you do when you need the invocation of a computation to be more complicated than a simple method call? <<rose>>
+**** Make an object for the computation and invoke it <<green>>
+** Value Object <<grey>>
+*** How do you design objects that will be widely shared, but for whom identity is unimportant? <<rose>>
+**** Set their state when they are created and never change it. Operations on the object always return a new object <<green>>
+** Null Object <<grey>>
+*** How do you represent special cases using objects? <<rose>>
+****  Create an object representing the special case and give it the same protocol as the regular objects.<<green>>
+** Template Method <<grey>>
+*** How do you represent the invariant sequence of a computation while provinding for future refinement? <<rose>>
+**** Write a method that is implemented entirely in terms of other methods <<green>>
+** Pluggable Object <<grey>>
+*** How do you express variation? <<rose>>
+****  When explicit decision making begins to spread, then create on object that contains the condition.<<green>>
+** Pluggable Selector <<grey>>
+*** How do you invoke different behaviour for different instances? <<rose>>
+**** Store the name of a method and dynamically invoke the method <<green>>
+** Factory Method <<grey>>
+*** How do you create an object when you want flexibility in creating new objects? <<rose>>
+****  Create an object in a method instead of using a constructor<<green>>
+** Imposter <<grey>>
+*** How do you introduce a new variation into a computation? <<rose>>
+**** Introduce a new object with the same protocol as an existing object but a different implementation <<green>>
+** Composite <<grey>>
+*** How do you implement an object whose behaviour is the composition of the behaviour of a list of other objects? <<rose>>
+**** Make it an Imposter for the component objects. <<green>>
+** Collecting parameter <<grey>>
+*** How do you collect the results of an operation that is spread over several objects? <<rose>>
+**** Add a parameter to the operation in which the results will be collected. <<green>>
+
+
+@endmindmap

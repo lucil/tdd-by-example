@@ -1,0 +1,44 @@
+@startmindmap Red Bar Patterns
+<style>
+mindmapDiagram {
+    .green {
+        BackgroundColor lightgreen
+    }
+    .rose {
+        BackgroundColor #FFBBCC
+    }
+    .blue {
+        BackgroundColor lightblue
+    }
+    .grey {
+        BackgroundColor lightgrey
+    }
+}
+</style>
+*  Refactoring <<blue>>
+** Reconcile Differences <<grey>>
+*** How do you unify two similar looking pieces of code? <<rose>>
+**** Gradually bring the closer and unify them when they are absolutely identical. <<green>>
+** Isolate Change <<grey>>
+*** How do you change one part of a multi-part method or object? <<rose>>
+**** First isolate the part that has to change. <<green>>
+** Migrate Data <<grey>>
+*** How do you move from one representation? <<rose>>
+**** Temporarily duplicate the data. <<green>>
+** Extract Method <<grey>>
+*** How do you make a long, complicated method easier to read? <<rose>>
+**** Turn a small part of it into a separate method and call the new method. <<green>>
+** Inline Method <<grey>>
+*** How do you simplify control flows that have become too twisted or scattered? <<rose>>
+**** Replace a method invocation with the method itself. <<green>>
+** Extract Interface <<grey>>
+*** How do you introduce a second implementation of operations in Java? <<rose>>
+**** Create an interface containing the shared operations. <<green>>
+** Move Method <<grey>>
+*** How do you move a method to the place where it belongs? <<rose>>
+**** Add it to the class where it belongs then invoke it. <<green>>
+** Method Object <<grey>>
+*** How do you represent a complicated method that requires several parameters and local variables? <<rose>>
+**** Make an object out of the method. <<green>>
+
+@endmindmap
